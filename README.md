@@ -10,9 +10,6 @@ Este é um projeto de um Sistema de Orçamento Pessoal de desktop, desenvolvido 
 O projeto foi construído com foco em criar uma interface gráfica (GUI) fluida e responsiva, utilizando PySimpleGUI, e em integrar visualização de dados com Matplotlib.
 
 ## ✨ Funcionalidades Principais
-
-* **Interface Gráfica Moderna:** Organizada em três abas (Visão Geral, Histórico, Adicionar) para uma navegação limpa e intuitiva.
-* **Visualização de Dados:** Gráfico de pizza em tempo real na aba "Visão Geral" que mostra a distribuição percentual de despesas por categoria.
 * **Gerenciamento (CRUD):**
     * **Adicionar:** Permite registrar novas transações (receitas ou despesas) com data, categoria e valor.
     * **Visualizar:** Exibe todas as transações em uma tabela detalhada no histórico.
