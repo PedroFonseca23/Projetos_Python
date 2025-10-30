@@ -78,3 +78,5 @@ pip install pyinstaller
 
 📄 Licença
 Este projeto está sob a licença MIT.
+
+A parte do venv, e totalmente necessaria, pois necessita da pasta _internal que so vem apos a troca para .exe
